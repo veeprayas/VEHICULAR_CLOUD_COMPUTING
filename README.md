@@ -5,13 +5,15 @@
 
 <pre>
 
-Begin
+**Begin**
 
-HEADER FILE
+#HEADER FILE
 
 pool: pool of potential candidate
 let pool = Initial declaration of parameters // Number of Cars, lanes on highway and AP, Bandwidth for all AP's, VM size, Speed of cars limit, etc
+
 Creation of 4 structures  (Car, AP, arr (Migration), mimislot (contention) initialized with subsequent variables
+
 1 class for Jobs with 2 functions assigned //  data size and data storage 
 
 **Main**
