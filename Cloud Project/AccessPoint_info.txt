@@ -1,0 +1,20 @@
+AP_id: 0
+coverage start location: 2
+coverage end location: 2.15
+Type of AP: 0
+AP_id: 1
+coverage start location: 4
+coverage end location: 4.15
+Type of AP: 1
+AP_id: 2
+coverage start location: 6
+coverage end location: 6.15
+Type of AP: 1
+AP_id: 3
+coverage start location: 8
+coverage end location: 8.15
+Type of AP: 0
+AP_id: 4
+coverage start location: 10
+coverage end location: 10.15
+Type of AP: 1

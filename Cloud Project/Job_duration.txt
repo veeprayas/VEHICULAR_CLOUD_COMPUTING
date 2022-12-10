@@ -1,0 +1,475 @@
+car_id: 40
+entry AP: 3
+exit AP: 4
+job id: 40
+basic_job_duration: 26
+car_id: 63
+entry AP: 3
+exit AP: 4
+job id: 63
+basic_job_duration: 20
+car_id: 21
+entry AP: 0
+exit AP: 1
+job id: 21
+basic_job_duration: 3
+car_id: 8
+entry AP: 0
+exit AP: 2
+job id: 8
+basic_job_duration: 21
+car_id: 96
+entry AP: 0
+exit AP: 1
+job id: 96
+basic_job_duration: 13
+car_id: 94
+entry AP: 0
+exit AP: 2
+job id: 94
+basic_job_duration: 18
+car_id: 55
+entry AP: 3
+exit AP: 4
+job id: 55
+basic_job_duration: 5
+car_id: 99
+entry AP: 0
+exit AP: 0
+job id: 99
+basic_job_duration: 13
+car_id: 50
+entry AP: 0
+exit AP: 1
+job id: 50
+basic_job_duration: 6
+car_id: 78
+entry AP: 0
+exit AP: 2
+job id: 78
+basic_job_duration: 3
+car_id: 7
+entry AP: 0
+exit AP: 2
+job id: 7
+basic_job_duration: 4
+car_id: 3
+entry AP: 0
+exit AP: 2
+job id: 3
+basic_job_duration: 9
+car_id: 76
+entry AP: 0
+exit AP: 1
+job id: 76
+basic_job_duration: 17
+car_id: 60
+entry AP: 3
+exit AP: 4
+job id: 60
+basic_job_duration: 5
+car_id: 55
+entry AP: 3
+exit AP: 4
+job id: 55
+basic_job_duration: 7
+car_id: 75
+entry AP: 3
+exit AP: 4
+job id: 75
+basic_job_duration: 24
+car_id: 42
+entry AP: 0
+exit AP: 1
+job id: 42
+basic_job_duration: 6
+car_id: 86
+entry AP: 0
+exit AP: 2
+job id: 86
+basic_job_duration: 3
+car_id: 65
+entry AP: 0
+exit AP: 1
+job id: 65
+basic_job_duration: 8
+car_id: 41
+entry AP: 0
+exit AP: 2
+job id: 41
+basic_job_duration: 16
+car_id: 76
+entry AP: 0
+exit AP: 1
+job id: 76
+basic_job_duration: 4
+car_id: 42
+entry AP: 0
+exit AP: 1
+job id: 42
+basic_job_duration: 26
+car_id: 97
+entry AP: 0
+exit AP: 1
+job id: 97
+basic_job_duration: 9
+car_id: 41
+entry AP: 0
+exit AP: 2
+job id: 41
+basic_job_duration: 16
+car_id: 38
+entry AP: 0
+exit AP: 2
+job id: 38
+basic_job_duration: 3
+car_id: 31
+entry AP: 0
+exit AP: 1
+job id: 31
+basic_job_duration: 13
+car_id: 99
+entry AP: 0
+exit AP: 0
+job id: 99
+basic_job_duration: 18
+car_id: 61
+entry AP: 0
+exit AP: 2
+job id: 61
+basic_job_duration: 4
+car_id: 39
+entry AP: 0
+exit AP: 1
+job id: 39
+basic_job_duration: 9
+car_id: 29
+entry AP: 0
+exit AP: 4
+job id: 29
+basic_job_duration: 18
+car_id: 31
+entry AP: 0
+exit AP: 1
+job id: 31
+basic_job_duration: 20
+car_id: 88
+entry AP: 0
+exit AP: 1
+job id: 88
+basic_job_duration: 20
+car_id: 67
+entry AP: 0
+exit AP: 2
+job id: 67
+basic_job_duration: 22
+car_id: 76
+entry AP: 0
+exit AP: 1
+job id: 76
+basic_job_duration: 19
+car_id: 52
+entry AP: 0
+exit AP: 2
+job id: 52
+basic_job_duration: 25
+car_id: 7
+entry AP: 0
+exit AP: 2
+job id: 7
+basic_job_duration: 5
+car_id: 9
+entry AP: 3
+exit AP: 4
+job id: 9
+basic_job_duration: 7
+car_id: 13
+entry AP: 3
+exit AP: 4
+job id: 13
+basic_job_duration: 14
+car_id: 6
+entry AP: 0
+exit AP: 1
+job id: 6
+basic_job_duration: 26
+car_id: 59
+entry AP: 0
+exit AP: 2
+job id: 59
+basic_job_duration: 23
+car_id: 66
+entry AP: 0
+exit AP: 1
+job id: 66
+basic_job_duration: 23
+car_id: 80
+entry AP: 0
+exit AP: 2
+job id: 80
+basic_job_duration: 5
+car_id: 35
+entry AP: 0
+exit AP: 1
+job id: 35
+basic_job_duration: 8
+car_id: 76
+entry AP: 0
+exit AP: 1
+job id: 76
+basic_job_duration: 21
+car_id: 92
+entry AP: 0
+exit AP: 1
+job id: 92
+basic_job_duration: 9
+car_id: 15
+entry AP: 0
+exit AP: 2
+job id: 15
+basic_job_duration: 23
+car_id: 54
+entry AP: 0
+exit AP: 2
+job id: 54
+basic_job_duration: 3
+car_id: 75
+entry AP: 3
+exit AP: 4
+job id: 75
+basic_job_duration: 8
+car_id: 3
+entry AP: 0
+exit AP: 2
+job id: 3
+basic_job_duration: 8
+car_id: 45
+entry AP: 0
+exit AP: 1
+job id: 45
+basic_job_duration: 21
+car_id: 87
+entry AP: 0
+exit AP: 1
+job id: 87
+basic_job_duration: 22
+car_id: 90
+entry AP: 0
+exit AP: 1
+job id: 90
+basic_job_duration: 5
+car_id: 19
+entry AP: 3
+exit AP: 4
+job id: 19
+basic_job_duration: 24
+car_id: 48
+entry AP: 0
+exit AP: 4
+job id: 48
+basic_job_duration: 22
+car_id: 68
+entry AP: 0
+exit AP: 1
+job id: 68
+basic_job_duration: 25
+car_id: 78
+entry AP: 0
+exit AP: 2
+job id: 78
+basic_job_duration: 26
+car_id: 52
+entry AP: 0
+exit AP: 2
+job id: 52
+basic_job_duration: 10
+car_id: 64
+entry AP: 3
+exit AP: 4
+job id: 64
+basic_job_duration: 11
+car_id: 44
+entry AP: 0
+exit AP: 1
+job id: 44
+basic_job_duration: 13
+car_id: 84
+entry AP: 3
+exit AP: 4
+job id: 84
+basic_job_duration: 21
+car_id: 41
+entry AP: 0
+exit AP: 2
+job id: 41
+basic_job_duration: 11
+car_id: 10
+entry AP: 0
+exit AP: 2
+job id: 10
+basic_job_duration: 11
+car_id: 18
+entry AP: 0
+exit AP: 4
+job id: 18
+basic_job_duration: 12
+car_id: 5
+entry AP: 0
+exit AP: 2
+job id: 5
+basic_job_duration: 13
+car_id: 6
+entry AP: 0
+exit AP: 1
+job id: 6
+basic_job_duration: 21
+car_id: 94
+entry AP: 0
+exit AP: 2
+job id: 94
+basic_job_duration: 16
+car_id: 22
+entry AP: 0
+exit AP: 2
+job id: 22
+basic_job_duration: 23
+car_id: 45
+entry AP: 0
+exit AP: 1
+job id: 45
+basic_job_duration: 22
+car_id: 31
+entry AP: 0
+exit AP: 1
+job id: 31
+basic_job_duration: 21
+car_id: 86
+entry AP: 0
+exit AP: 2
+job id: 86
+basic_job_duration: 24
+car_id: 21
+entry AP: 0
+exit AP: 1
+job id: 21
+basic_job_duration: 21
+car_id: 5
+entry AP: 0
+exit AP: 2
+job id: 5
+basic_job_duration: 10
+car_id: 86
+entry AP: 0
+exit AP: 2
+job id: 86
+basic_job_duration: 19
+car_id: 44
+entry AP: 0
+exit AP: 1
+job id: 44
+basic_job_duration: 22
+car_id: 0
+entry AP: 0
+exit AP: 1
+job id: 0
+basic_job_duration: 19
+car_id: 28
+entry AP: 0
+exit AP: 2
+job id: 28
+basic_job_duration: 19
+car_id: 64
+entry AP: 3
+exit AP: 4
+job id: 64
+basic_job_duration: 22
+car_id: 63
+entry AP: 3
+exit AP: 4
+job id: 63
+basic_job_duration: 22
+car_id: 65
+entry AP: 0
+exit AP: 1
+job id: 65
+basic_job_duration: 6
+car_id: 18
+entry AP: 0
+exit AP: 4
+job id: 18
+basic_job_duration: 10
+car_id: 92
+entry AP: 0
+exit AP: 1
+job id: 92
+basic_job_duration: 13
+car_id: 47
+entry AP: 0
+exit AP: 1
+job id: 47
+basic_job_duration: 4
+car_id: 26
+entry AP: 0
+exit AP: 1
+job id: 26
+basic_job_duration: 11
+car_id: 36
+entry AP: 3
+exit AP: 4
+job id: 36
+basic_job_duration: 18
+car_id: 67
+entry AP: 0
+exit AP: 2
+job id: 67
+basic_job_duration: 15
+car_id: 49
+entry AP: 0
+exit AP: 1
+job id: 49
+basic_job_duration: 6
+car_id: 48
+entry AP: 0
+exit AP: 4
+job id: 48
+basic_job_duration: 16
+car_id: 17
+entry AP: 0
+exit AP: 4
+job id: 17
+basic_job_duration: 6
+car_id: 83
+entry AP: 0
+exit AP: 4
+job id: 83
+basic_job_duration: 20
+car_id: 76
+entry AP: 0
+exit AP: 1
+job id: 76
+basic_job_duration: 22
+car_id: 64
+entry AP: 3
+exit AP: 4
+job id: 64
+basic_job_duration: 8
+car_id: 61
+entry AP: 0
+exit AP: 2
+job id: 61
+basic_job_duration: 15
+car_id: 64
+entry AP: 3
+exit AP: 4
+job id: 64
+basic_job_duration: 25
+car_id: 10
+entry AP: 0
+exit AP: 2
+job id: 10
+basic_job_duration: 25
+car_id: 90
+entry AP: 0
+exit AP: 1
+job id: 90
+basic_job_duration: 3
