@@ -63,15 +63,27 @@ if cars in choosen have consecutive Entry and Exit AP
         job failure
 else:
     job  complete
-           
+# NOTE: Case for Migration failure has not been handled to study functioning of migration strategies in detail
 </pre>
 
-# NOTE: Case for Migration failure has not been handled 
+# RUN  CODE
 
+A very simple Makefile has been added to the project.
 
-   
+To build:
 
+make
 
+To clean the build
 
+make clean
+
+To make all
+
+make all
+
+Currently, the Makefile does not check if any of the .cpp or .hpp files have changed, so to properly build the following must be done:
+
+make clean make
 
 
