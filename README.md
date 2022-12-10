@@ -27,14 +27,12 @@ else:
     create array of exit AP
 define coverage area and distance between AP's
 
-
 for all cars 
     assign car ID, Lane ID and arrival time at an Entry & Exit AP
      
 while ( Entry > Exit AP )
     reassign // goal here is to make sure that car Entry AP ID  is lower than exit  AP ID along the highway
-  
-  
+
 // Once Car and AP ID's along with time  parameters are set begin simulation
 // Simulation of cars along the highway is done using LINEAR INTERPOLATION
  
@@ -42,7 +40,6 @@ Start // All cars declared
 Input: (LaneID, AP Entry ID) and (Lane ID, AP Exit  ID)
 yp = y0 + ((y1 - y0)/(x1 - x0)) * (x - x0)
 Stop
- 
  
 if car Entry AP ID = car+i  AP ID && car arrival time = car+i arrival time && car Lane ID != car+i Lane ID // brute force
     then these cars are choosen for contention
