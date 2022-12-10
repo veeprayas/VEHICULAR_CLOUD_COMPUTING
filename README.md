@@ -1,6 +1,6 @@
 # VEHICULAR_CLOUD_COMPUTING
 
-# PSEUDO CODE C++ ( shortend version due to length) 
+# DOCUMENTAION/PSEUDO CODE C++ ( shortend version due to length) 
 
 
 <pre>
