@@ -75,17 +75,18 @@ To build:
 
 make
 
-To clean the build
+To clean the build:
 
 make clean
 
-To make all
+To make all:
 
 make all
-
-Currently, the Makefile does not check if any of the .cpp or .hpp files have changed, so to properly build the following must be done:
-
+or
 make clean make
+
+To see output files,run the executable:
+./vmproject
 
 You can also create a new folder and run the .cpp in the newly created folder using a C++ IDE and Debugger
 
