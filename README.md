@@ -4,7 +4,7 @@
 <pre>
 # Begin
 
-## HEADER FILE
+# HEADER FILE
 
 pool: pool of potential candidate
 let pool = Initial declaration of parameters // Number of Cars, lanes on highway and AP, Bandwidth for all AP's, VM size, Speed of cars limit, etc
