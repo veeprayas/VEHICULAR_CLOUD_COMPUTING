@@ -14,12 +14,12 @@
 #<Main>
 
 for all AP 
-    assign AP as Entry (0) || Exit (1) in random // start of an AP is always entry (assumption)
+   <pre> assign AP as Entry (0) || Exit (1) in random // start of an AP is always entry (assumption)
 
 if  AP = ENTRY 
-    create array of entry AP
+   <pre> create array of entry AP
 else:
-    create array of exit AP
+   <pre> create array of exit AP
 define coverage area and distance between AP's
 
 
