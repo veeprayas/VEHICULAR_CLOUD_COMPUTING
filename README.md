@@ -86,5 +86,8 @@ make all
 Currently, the Makefile does not check if any of the .cpp or .hpp files have changed, so to properly build the following must be done:
 
 make clean make
+
+You can also create a new folder and run the .cpp in the newly created folder using a C++ IDE and Debugger
+
 </pre>
 
