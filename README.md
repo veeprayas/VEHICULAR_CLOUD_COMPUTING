@@ -49,8 +49,8 @@ for all cars
                               else:
                                  successful hence job assigned 
   else:
-  
-              job assigned // functions in job class are called
+       
+      job assigned // functions in job class are called
               
   for ( store all car struct which have job assigned )
         choosen // array of all car with jobs  assigned
