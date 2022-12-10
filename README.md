@@ -64,7 +64,7 @@ if cars in choosen have consecutive Entry and Exit AP
 else:
     job  complete
            
-<pre>
+</pre>
 
 # NOTE: Case for Migration failure has not been handled 
 
