@@ -1,25 +1,28 @@
 # VEHICULAR_CLOUD_COMPUTING
 
 # PSEUDO CODE C++ ( shortend version due to length) 
-<pre>
-# Begin
 
-# HEADER FILE
+
+<pre>
+
+Begin
+
+HEADER FILE
 
 pool: pool of potential candidate
 let pool = Initial declaration of parameters // Number of Cars, lanes on highway and AP, Bandwidth for all AP's, VM size, Speed of cars limit, etc
 Creation of 4 structures  (Car, AP, arr (Migration), mimislot (contention) initialized with subsequent variables
 1 class for Jobs with 2 functions assigned //  data size and data storage 
 
-# Main
+Main
 
 for all AP 
-   <pre> assign AP as Entry (0) || Exit (1) in random // start of an AP is always entry (assumption)
+    assign AP as Entry (0) || Exit (1) in random // start of an AP is always entry (assumption)
 
 if  AP = ENTRY 
-   <pre> create array of entry AP
+    create array of entry AP
 else:
-   <pre> create array of exit AP
+    create array of exit AP
 define coverage area and distance between AP's
 
 
