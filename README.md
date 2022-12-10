@@ -68,7 +68,7 @@ else:
 
 # RUN  CODE
 
-</pre>
+<pre>
 A very simple Makefile has been added to the project.
 
 To build:
