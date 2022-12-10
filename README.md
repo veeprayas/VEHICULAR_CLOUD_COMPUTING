@@ -14,7 +14,7 @@ let pool = Initial declaration of parameters // Number of Cars, lanes on highway
 Creation of 4 structures  (Car, AP, arr (Migration), mimislot (contention) initialized with subsequent variables
 1 class for Jobs with 2 functions assigned //  data size and data storage 
 
-Main
+**Main**
 
 for all AP 
     assign AP as Entry (0) || Exit (1) in random // start of an AP is always entry (assumption)
