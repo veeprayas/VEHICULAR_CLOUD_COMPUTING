@@ -18,7 +18,7 @@ Creation of 4 structures  (Car, AP, arr (Migration), mimislot (contention) initi
 
 **Main**
 
-<b>for<b> all AP 
+for all AP 
     assign AP as Entry (0) || Exit (1) in random // start of an AP is always entry (assumption)
 
 if  AP = ENTRY 
