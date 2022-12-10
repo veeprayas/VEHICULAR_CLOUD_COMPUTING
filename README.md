@@ -68,6 +68,7 @@ else:
 
 # RUN  CODE
 
+</pre>
 A very simple Makefile has been added to the project.
 
 To build:
@@ -85,5 +86,5 @@ make all
 Currently, the Makefile does not check if any of the .cpp or .hpp files have changed, so to properly build the following must be done:
 
 make clean make
-
+</pre>
 
